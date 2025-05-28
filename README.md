@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚  I’m currently doing Computer Science [BS(CS)] from National University Computer and Emerging Sciences, Lahore, Pakistan.<br>📫 Reach me on my email shahmiryousaf2003@gmail.com</p>
+<p align="left">✨ Creating bugs since 2021<br>📚  Graduated in Computer Science (BS) from FAST-NUCES, Lahore, Pakistan.<br>📫 Reach me on my email shahmiryousaf2003@gmail.com</p>
 
 ###
 
@@ -46,10 +46,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" height="40" alt="asp.net logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
+  <img width="12" />
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="40" alt="hugging face logo" />
 </div>
-
-
-
-
-
-###
